@@ -1,0 +1,138 @@
+[
+  {
+    "PLACE": "COLLOSEUM",
+    "NAME": "Колизей",
+    "ROOM_ACTIVE": 1,
+    "TITLE_EVENT": "Пленарное заседание",
+    "TITLE_NAME": "Главное заседание всего и вся",
+    "TITLE_TIME": "16:30 - 17:50",
+    "CHAT_BLOCK_ACTIVE": 1,
+    "PLAYER_BLOCK_ACTIVE": 1,
+    "PLAYER_BLOCK_CAP": "",
+    "PLAYER_BLOCK_LINK": "https://facecast.net/w/cp1lll",
+    "VOTING_BLOCK_STATUS_LIST": [
+      {
+        "value": "form",
+        "label": "Голосование"
+      },
+      {
+        "value": "result",
+        "label": "Результат"
+      }
+    ],
+    "VOTING_BLOCK_STATUS": "result",
+    "VOTING_BLOCK_ID_LIST": [
+      {
+        "value": "0",
+        "label": "Выкл"
+      },
+      {
+        "value": "1",
+        "label": "«Пассажирские перевозки по речным магистралям России: новый импульс развития»"
+      },
+      {
+        "value": "2",
+        "label": "«Пассажирские перевозки»"
+      }
+    ],
+    "VOTING_BLOCK_ID": 1
+  },
+  {
+    "PLACE": "BETANKOUR",
+    "NAME": "Бетанкур",
+    "ROOM_ACTIVE": 0,
+    "TITLE_EVENT": "Заседание",
+    "TITLE_NAME": "Чуть главное предыдущего",
+    "TITLE_TIME": "18:30 - 20:30",
+    "CHAT_BLOCK_ACTIVE": 0,
+    "PLAYER_BLOCK_ACTIVE": 0,
+    "PLAYER_BLOCK_CAP": "",
+    "PLAYER_BLOCK_LINK": "https://facecast.net/w/xy1rne",
+    "VOTING_BLOCK_STATUS_LIST": [
+      {
+        "value": "form",
+        "label": "Голосование"
+      },
+      {
+        "value": "result",
+        "label": "Результат"
+      }
+    ],
+    "VOTING_BLOCK_STATUS": "form",
+    "VOTING_BLOCK_ID_LIST": [
+      {
+        "value": "0",
+        "label": "Выкл"
+      },
+      {
+        "value": "1",
+        "label": "«Перевозки по озерным магистралям России: новый импульс развития»"
+      },
+      {
+        "value": "2",
+        "label": "«Грузовые перевозки»"
+      }
+    ],
+    "VOTING_BLOCK_ID": 2
+  },
+  {
+    "PLACE": "MELNIKOV",
+    "NAME": "Мельников",
+    "ROOM_ACTIVE": 0,
+    "TITLE_EVENT": "",
+    "TITLE_NAME": "",
+    "TITLE_TIME": "",
+    "CHAT_BLOCK_ACTIVE": 0,
+    "PLAYER_BLOCK_ACTIVE": 0,
+    "PLAYER_BLOCK_CAP": "",
+    "PLAYER_BLOCK_LINK": "https://facecast.net/w/ph3dt4",
+    "VOTING_BLOCK_STATUS_LIST": [
+      {
+        "value": "form",
+        "label": "Голосование"
+      },
+      {
+        "value": "result",
+        "label": "Результат"
+      }
+    ],
+    "VOTING_BLOCK_STATUS": "form",
+    "VOTING_BLOCK_ID_LIST": [
+      {
+        "value": "0",
+        "label": "Выкл"
+      }
+    ],
+    "VOTING_BLOCK_ID": 0
+  },
+  {
+    "PLACE": "PROSKURYAKOV",
+    "NAME": "Проскуряков",
+    "ROOM_ACTIVE": 0,
+    "TITLE_EVENT": "",
+    "TITLE_NAME": "",
+    "TITLE_TIME": "",
+    "CHAT_BLOCK_ACTIVE": 0,
+    "PLAYER_BLOCK_ACTIVE": 0,
+    "PLAYER_BLOCK_CAP": "",
+    "PLAYER_BLOCK_LINK": "https://facecast.net/w/4ldtwu",
+    "VOTING_BLOCK_STATUS_LIST": [
+      {
+        "value": "form",
+        "label": "Голосование"
+      },
+      {
+        "value": "result",
+        "label": "Результат"
+      }
+    ],
+    "VOTING_BLOCK_STATUS": "form",
+    "VOTING_BLOCK_ID_LIST": [
+      {
+        "value": "0",
+        "label": "Выкл"
+      }
+    ],
+    "VOTING_BLOCK_ID": 0
+  }
+]
